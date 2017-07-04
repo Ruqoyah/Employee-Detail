@@ -1,0 +1,17 @@
+{
+  "name": "employee-details",
+  "version": "1.0.0",
+  "description": "Getting employee Details using OOP ",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "OOP"
+  ],
+  "author": "Rukayat Odukoya",
+  "license": "ISC"
+}
